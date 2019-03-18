@@ -1,4 +1,4 @@
-package com.jacklt.ktor
+package com.github.jacklt.ktor
 
 import io.ktor.network.selector.ActorSelectorManager
 import io.ktor.network.sockets.*
